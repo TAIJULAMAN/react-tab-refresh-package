@@ -1,4 +1,4 @@
-# react-tab-refresh 🍃
+# react-tab-refresh
 
 **Stop the Memory Bloat** — Automatically prune and re-hydrate your long-lived React apps to keep the browser fast.
 
@@ -351,7 +351,7 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 ## 📄 License
 
-MIT © [Your Name]
+MIT © TAIJULAMAN
 
 ---
 

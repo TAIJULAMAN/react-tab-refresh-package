@@ -40,16 +40,16 @@
     "memory-leak",
     "react-hooks"
   ],
-  "author": "Your Name",
+  "author": "TAIJULAMAN",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/react-tab-refresh.git"
+    "url": "https://github.com/TAIJULAMAN/react-tab-refresh-package.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-tab-refresh/issues"
+    "url": "https://github.com/TAIJULAMAN/react-tab-refresh-package/issues"
   },
-  "homepage": "https://github.com/yourusername/react-tab-refresh#readme",
+  "homepage": "https://github.com/TAIJULAMAN/react-tab-refresh-package#readme",
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"

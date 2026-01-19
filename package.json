@@ -1,7 +1,7 @@
 {
   "name": "react-tab-refresh",
   "version": "1.0.0",
-  "description": "Stop the Memory Bloat — Automatically prune and re-hydrate your long-lived React apps to keep the browser fast.",
+  "description": "Stop the Memory Bloat \u2014 Automatically prune and re-hydrate your long-lived React apps to keep the browser fast.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
@@ -18,8 +18,8 @@
     }
   },
   "scripts": {
-    "dev": "rollup -c -w",
-    "build": "rollup -c",
+    "dev": "node init && rollup -c -w",
+    "build": "node init && rollup -c",
     "test": "vitest",
     "test:coverage": "vitest --coverage",
     "type-check": "tsc --noEmit",
@@ -40,16 +40,16 @@
     "memory-leak",
     "react-hooks"
   ],
-  "author": "Your Name",
+  "author": "TAIJULAMAN",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/react-tab-refresh.git"
+    "url": "https://github.com/TAIJULAMAN/react-tab-refresh-package.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-tab-refresh/issues"
+    "url": "https://github.com/TAIJULAMAN/react-tab-refresh-package/issues"
   },
-  "homepage": "https://github.com/yourusername/react-tab-refresh#readme",
+  "homepage": "https://github.com/TAIJULAMAN/react-tab-refresh-package#readme",
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
